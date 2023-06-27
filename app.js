@@ -45,7 +45,7 @@ console.log(
 
 //VARIABLES
 //alcance de las variables 
-// otra linea
+
 
 var username = "jose";
 let lastname = "torres";
