@@ -45,6 +45,7 @@ console.log(
 
 //VARIABLES
 //alcance de las variables 
+// otra linea
 
 var username = "jose";
 let lastname = "torres";
@@ -165,3 +166,12 @@ sumar(2, 5);
 
 
 // ESTUDIAR EL DOM DEL NAVEGADOR DOCUMENT OBJECT MODEL
+
+//ESTUDIAR NODEJS
+
+// APIS HTML5
+
+
+seminario
+
+https://www.menti.com/ampaanvvzc
